@@ -5,8 +5,9 @@
 > _Built over a weekend, against a field of around 100+ people._
 
 
-![The bomb](<img width="4096" height="2304" alt="image" src="https://github.com/user-attachments/assets/637ccfd6-f8fb-472e-940d-2a76ebcc33cb" />
-)
+<img width="4096" height="2304" alt="image" src="https://github.com/user-attachments/assets/637ccfd6-f8fb-472e-940d-2a76ebcc33cb" />
+
+
 
 <!-- [ Watch a full run](PASTE_VIDEO_LINK) -->
 
