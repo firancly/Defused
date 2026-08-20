@@ -2,17 +2,13 @@
 
 > 🏆 **1st place overall at the Horizons Arcana Hackathon.**
 >
-> _Built over one weekend, against a field of around 100 people._
+> _Built over a weekend, against a field of around 100+ people._
 
-<!--
-FILL: media. Drop the files in a docs/ folder (or paste links) and
-uncomment. A still of the physical bomb belongs here more than anywhere
-else in this file.
 
-![The bomb](docs/bomb.jpg)
+![The bomb](<img width="4096" height="2304" alt="image" src="https://github.com/user-attachments/assets/637ccfd6-f8fb-472e-940d-2a76ebcc33cb" />
+)
 
-[▶ Watch a full run](PASTE_VIDEO_LINK)
--->
+<!-- [ Watch a full run](PASTE_VIDEO_LINK) -->
 
 A physical bomb defusal party game in the spirit of _Keep Talking and Nobody Explodes_. One player (the **defuser**) stands alone at a real hardware bomb with buttons, wires and a countdown display, and sees only what's in front of them. Everyone else is the **expert**: they hold the rulebook, they never see the bomb, and they have to talk the defuser through it before the timer expires.
 
