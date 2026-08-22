@@ -1,4 +1,4 @@
-# Keep Grinding and Nobody Dies (I Guess)
+# Defused
 
 > 🏆 **1st place overall at the Horizons Arcana Hackathon.**
 >
